@@ -1,0 +1,12 @@
+{
+  "name": "Development of IT systems, obrt za računalno programiranje",
+  "short_name": "Development of IT systems",
+  "description": "Development of IT systems, obrt za računalno programiranje, vl. Mykola Diachok",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0078d4",
+  "icons": [
+
+  ]
+}
