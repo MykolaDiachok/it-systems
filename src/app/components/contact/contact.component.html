@@ -1,0 +1,20 @@
+<section class="contact-us">
+  <div class="container">
+    <h1>Contact Us</h1>
+
+    <div *ngIf="isLoading" class="loading">
+      <i class="fa-solid fa-spinner fa-spin-pulse"></i> Loading...
+    </div>
+
+    <iframe
+      src="https://docs.google.com/forms/d/e/1FAIpQLSc9wX1sr2e0HouzWirNHqvyikFWuS528k7AGF1lxSnvnHXvaw/viewform?embedded=true"
+      class="contact-form-iframe"
+      frameborder="0"
+      marginheight="0"
+      marginwidth="0"
+      (load)="onIframeLoad()"
+    >
+      Loading…
+    </iframe>
+  </div>
+</section>

@@ -1,59 +1,60 @@
-# ItSystems
+# **Development of IT Systems Landing Page**
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
+This repository contains the code for the **Development of IT Systems Landing Page**, a modern, responsive, and fully interactive website designed to showcase the services and expertise of IT Systems.
 
-## Development server
+---
 
-To start a local development server, run:
+## **Features**
+- **Responsive Design**: The landing page is optimized for desktop, tablet, and mobile devices.
+- **Dynamic Content**: Built with Angular for efficient content rendering and seamless navigation.
+- **Service Carousel**: A full-screen, interactive carousel highlighting the company’s key services.
+- **Contact Form Integration**: Embedded Google Form for quick and easy client inquiries.
+- **Fast and Reliable**: Hosted on GitHub Pages for fast load times and high availability.
 
-```bash
-ng serve
-```
+---
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+## **Technologies Used**
+- **Frontend Framework**: [Angular](https://angular.io/)
+- **Styling**: CSS with modern techniques for responsiveness and interactivity.
+- **Carousel**: [Swiper.js](https://swiperjs.com/) for an interactive slider.
+- **Hosting**: [GitHub Pages](https://pages.github.com/)
+- **Integration**: Google Forms for contact form submissions.
 
-## Code scaffolding
+---
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+## **Setup Instructions**
 
-```bash
-ng generate component component-name
-```
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/MykolaDiachok/it-systems.git
+   cd it-systems
+   ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+2. **Install Dependencies**:
+   ```bash
+   npm install
+   ```
 
-```bash
-ng generate --help
-```
+3. **Run the Application Locally**:
+   ```bash
+    ng serve
+    ```
 
-## Building
+4. **Build for Production**:
+   ```bash
+    ng build --output-path=dist
+    ```
+5. **Deploy to GitHub Pages**:
+   ```bash
+    ng publish
+    ```
 
-To build the project run:
+## **How to Use**
+- *Visit the live site hosted on GitHub Pages: [Live Demo](https://pages.github.com/).
+- *Navigate through the site to learn about IT Systems’ services.
+- *Use the contact form to get in touch with the team.
 
-```bash
-ng build
-```
+## **License**
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.

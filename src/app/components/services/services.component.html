@@ -1,0 +1,19 @@
+<section class="carousel-container">
+  <div class="swiper">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide" *ngFor="let service of services">
+        <div class="card">
+          <h3>{{ service.title }}</h3>
+          <p>{{ service.description }}</p>
+          <ul>
+            <li *ngFor="let key of service?.keyServices">{{ key }}</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="swiper-button-next"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-pagination"></div>
+  </div>
+</section>

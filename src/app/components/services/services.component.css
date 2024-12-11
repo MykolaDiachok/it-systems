@@ -1,0 +1,58 @@
+/* Контейнер каруселі */
+.carousel-container {
+  width: 100vw;
+  height: 91vh;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+
+.swiper-slide {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  background-color: #e6e6e6;
+}
+
+
+.card {
+  width: 80%;
+  height: 80%;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.card h3 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.card p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: #0078d4;
+}
+
+.swiper-pagination-bullet {
+  background: #0078d4;
+}
