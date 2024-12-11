@@ -56,5 +56,5 @@ This repository contains the code for the **Development of IT Systems Landing Pa
 
 ## **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://mit-license.org/) file for details.
 
