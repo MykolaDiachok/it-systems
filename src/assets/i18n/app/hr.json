@@ -1,0 +1,162 @@
+{
+  "company_name": "Development of IT Systems",
+  "header": {
+    "home": "Početna",
+    "about": "O nama",
+    "contacts": "Kontakti",
+    "services": "Usluge"
+  },
+  "landing_page": {
+    "welcome": "Dobrodošli u",
+    "trusted_partner": "Vaš pouzdan partner u stvaranju inovativnih IT rješenja."
+  },
+  "footer": {
+    "made": "© 2024 Development of IT Systems. Sva prava pridržana."
+  },
+  "contacts": {
+    "contacts_us": "Kontaktirajte nas",
+    "loading": "Učitavanje..."
+  },
+  "about": {
+    "title": "O nama",
+    "welcome": "Dobrodošli u",
+    "description": "Pružamo najsuvremenija rješenja u .NET, Angular, SQL i Azure.",
+    "intro": "Vaš pouzdan partner u stvaranju inovativnih IT rješenja. S dugogodišnjim iskustvom u industriji razvoja softvera, specijalizirani smo za pružanje visokokvalitetnih, pouzdanih i skalabilnih sustava prilagođenih vašim poslovnim potrebama.",
+    "expertise_title": "Naša stručnost",
+    "web_dev": "Web razvoj:",
+    "web_dev_desc": "Izrada dinamičnih i responzivnih web aplikacija koristeći Angular i moderne okvire.",
+    "cloud_solutions": "Cloud rješenja:",
+    "cloud_solutions_desc": "Implementacija skalabilnih rješenja na Azure za poboljšanje vašeg poslovanja.",
+    "enterprise_systems": "Poslovni sustavi:",
+    "enterprise_systems_desc": "Razvoj robusnih sustava s .NET, C# i SQL za besprijekorne poslovne procese.",
+    "consulting": "Konzultantske usluge:",
+    "consulting_desc": "Pružanje stručnih savjeta za optimizaciju vaše IT infrastrukture.",
+    "mission_title": "Naša misija",
+    "mission": "U \"Development of IT Systems\" cilj nam je osnažiti poslovanja pomoću najsuvremenije tehnologije. Vjerujemo u izgradnju dugoročnih partnerstava temeljenih na povjerenju, inovacijama i izvrsnosti.",
+    "why_choose_us_title": "Zašto odabrati nas?",
+    "why_choose_us_point_1": "- Dokazana stručnost u modernim tehnologijama.",
+    "why_choose_us_point_2": "- Posvećenost kvaliteti i pravovremenoj isporuci.",
+    "why_choose_us_point_3": "- Prilagođeni pristup vašim potrebama.",
+    "why_choose_us_point_4": "- Transparentni i suradnički procesi."
+  },
+  "services": {
+    "web_development": {
+      "title": "Web razvoj",
+      "description": "Specijalizirani smo za izradu responzivnih i korisnički prilagođenih web stranica prilagođenih vašim poslovnim potrebama. Koristeći najnovije tehnologije kao što su Angular, .NET i moderni frontend okviri, isporučujemo visoko učinkovite web aplikacije koje poboljšavaju korisničko iskustvo i donose rezultate.",
+      "key_services": [
+        "Izrada prilagođenih web stranica.",
+        "Jednostruke aplikacije (SPA) koristeći Angular.",
+        "Integracija backend-a s .NET i RESTful API-ima.",
+        "Razvoj platformi za e-trgovinu.",
+        "Optimizacija performansi web stranica."
+      ]
+    },
+    "cloud_solutions": {
+      "title": "Cloud rješenja",
+      "description": "Naš tim pruža skalabilna i sigurna cloud rješenja kako bi pomogao tvrtkama da iskoriste moć cloud računalstva. Specijalizirani smo za Microsoft Azure kako bismo pružili cloud usluge koje optimiziraju vaše poslovanje i smanjuju troškove infrastrukture.",
+      "key_services": [
+        "Dizajn i implementacija cloud infrastrukture.",
+        "Azure cloud usluge.",
+        "Implementacija serverless rješenja.",
+        "Pohrana i upravljanje podacima.",
+        "Sigurnost i usklađenost cloud-a.",
+        "Migracija sustava sa lokalnih poslužitelja u cloud."
+      ]
+    },
+    "it_consulting": {
+      "title": "IT konzultacije",
+      "description": "S više od 20 godina iskustva u IT-u, pružamo stručne konzultantske usluge kako bismo tvrtkama pomogli uskladiti njihove tehnološke strategije s poslovnim ciljevima. Naša stručnost obuhvaća razvoj softvera, dizajn sustava i IT infrastrukturu.",
+      "key_services": [
+        "Razvoj i implementacija IT strategije.",
+        "Dizajn sustava arhitekture.",
+        "Optimizacija performansi postojećih sustava.",
+        "Procjena i preporuke za tehnološki stack.",
+        "Otklanjanje problema i rješavanje poteškoća."
+      ]
+    },
+    "custom_software_development": {
+      "title": "Razvoj prilagođenog softvera",
+      "description": "Razvijamo prilagođena softverska rješenja prilagođena vašim jedinstvenim poslovnim procesima. Bilo da vam je potrebna desktop aplikacija, poslovno rješenje ili specifičan alat, osiguravamo da softver savršeno odgovara vašim zahtjevima.",
+      "key_services": [
+        "Razvoj prilagođenog softvera.",
+        "Desktop aplikacije.",
+        "Poslovna rješenja.",
+        "Dizajn i upravljanje bazama podataka.",
+        "Održavanje i podrška softvera.",
+        "Automatizacija poslovnih procesa.",
+        "Razvoj i integracija API-ja.",
+        "Održavanje i ažuriranja postojećeg softvera."
+      ]
+    },
+    "mobile_app_development": {
+      "title": "Razvoj mobilnih aplikacija",
+      "description": "Kreiramo mobilne aplikacije koje pružaju izvanredna korisnička iskustva na iOS i Android uređajima. Naš tim specijaliziran je za razvoj nativnih i cross-platform aplikacija koje su brze, sigurne i jednostavne za korištenje.",
+      "key_services": [
+        "Razvoj aplikacija za iOS i Android.",
+        "Nativne i cross-platform aplikacije.",
+        "Dizajn korisničkog sučelja.",
+        "Optimizacija performansi aplikacija.",
+        "Integracija s backend sustavima.",
+        "Održavanje i ažuriranja aplikacija."
+      ]
+    },
+    "frontend_development": {
+      "title": "Frontend razvoj",
+      "description": "Naše usluge frontend razvoja fokusirane su na stvaranje modernih, interaktivnih i vizualno privlačnih korisničkih sučelja. Realiziramo dizajne koristeći Angular i druge najnovije frontend tehnologije.",
+      "key_services": [
+        "Responzivni web dizajn.",
+        "Razvoj koristeći Angular.",
+        "Dizajn korisničkog sučelja.",
+        "Interaktivne web aplikacije.",
+        "Optimizacija performansi frontend-a.",
+        "Razvoj koristeći Blazor."
+      ]
+    },
+    "backend_development": {
+      "title": "Backend razvoj",
+      "description": "Naša backend rješenja osmišljena su za osiguravanje stabilnosti, skalabilnosti i sigurnosti vaših aplikacija.",
+      "key_services": [
+        "Razvoj RESTful API-ja.",
+        "Dizajn i upravljanje bazama podataka.",
+        "Server-side skriptiranje.",
+        "Optimizacija performansi backend-a.",
+        "Integracija s vanjskim uslugama.",
+        "Mikroservisna arhitektura."
+      ]
+    },
+    "database_management": {
+      "title": "Upravljanje bazama podataka",
+      "description": "Pružamo usluge upravljanja bazama podataka kako bismo tvrtkama pomogli u pohranjivanju, upravljanju i osiguravanju njihovih podataka. Naša stručnost obuhvaća dizajn, optimizaciju i održavanje baza podataka za različite sustave.",
+      "key_services": [
+        "Dizajn i implementacija baza podataka.",
+        "Migracija i integracija podataka.",
+        "Optimizacija performansi baza podataka.",
+        "Sigurnost i usklađenost podataka.",
+        "Održavanje i podrška baza podataka."
+      ]
+    },
+    "devops_and_automation": {
+      "title": "DevOps i automatizacija",
+      "description": "Naše DevOps i usluge automatizacije pomažu tvrtkama da optimiziraju procese razvoja, poboljšaju suradnju i povećaju učinkovitost. Implementiramo alate i prakse automatizacije kako bismo ubrzali isporuku softvera i osigurali kvalitetu.",
+      "key_services": [
+        "Kontinuirana integracija i isporuka (CI/CD).",
+        "Infrastruktura kao kod (IaC).",
+        "Automatizirano testiranje.",
+        "Praćenje i zapisivanje.",
+        "Kontejnerizacija i orkestracija.",
+        "DevOps konzultacije i implementacija."
+      ]
+    },
+    "technical_support": {
+      "title": "Tehnička podrška",
+      "description": "Pružamo pouzdanu tehničku podršku kako bismo osigurali nesmetan rad vaših IT sustava. Naš proaktivan pristup smanjuje vrijeme zastoja i maksimizira produktivnost.",
+      "key_services": [
+        "Rješavanje IT problema.",
+        "Održavanje i ažuriranje sustava.",
+        "Usluge udaljene podrške.",
+        "Otklanjanje tehničkih poteškoća.",
+        "Hitna podrška."
+      ]
+    }
+  }
+}

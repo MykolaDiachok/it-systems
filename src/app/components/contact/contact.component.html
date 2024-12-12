@@ -1,9 +1,9 @@
 <section class="contact-us">
   <div class="container">
-    <h1>Contact Us</h1>
+    <h1>{{ 'contacts.contacts_us' | translate }}</h1>
 
     <div *ngIf="isLoading" class="loading">
-      <i class="fa-solid fa-spinner fa-spin-pulse"></i> Loading...
+      <i class="fa-solid fa-spinner fa-spin-pulse"></i> {{ 'contacts.loading' | translate }}
     </div>
 
     <iframe

@@ -4,20 +4,20 @@
       <div class="swiper-slide" *ngFor="let service of services">
         <div class="card">
           <!-- Title at the top -->
-          <h3>{{ service.title }}</h3>
+          <h3>{{ service.title | translate}}</h3>
 
           <!-- Content container for text and image -->
           <div class="content">
             <!-- Text content -->
             <div class="text-content">
-              <p>{{ service.description }}</p>
+              <p>{{ service.description  | translate}}</p>
               <ul>
-                <li *ngFor="let key of service?.keyServices">{{ key }}</li>
+                <li *ngFor="let key of service?.keyServices">{{ key | translate }}</li>
               </ul>
             </div>
 
             <!-- Image -->
-            <img [src]="'assets/images/' + service.image" alt="{{ service.title }}" class="card-image" />
+            <img [src]="'assets/images/' + service.image" alt="{{ service.title | translate }}" class="card-image" />
           </div>
         </div>
       </div>

@@ -1,30 +1,28 @@
 <section class="about">
   <div class="container">
-    <h1>About Us</h1>
+    <h1>{{ 'about.title' | translate }}</h1>
     <p>
-      Welcome to <strong>IT Systems Development</strong>, your trusted partner in creating innovative IT solutions. With years of experience in the software development industry, we specialize in delivering high-quality, reliable, and scalable systems tailored to meet your business needs.
+      {{ 'about.welcome' | translate }} <strong>{{ 'company_name' | translate }}</strong>.
+      {{ 'about.intro' | translate }}
     </p>
 
-    <h2>Our Expertise</h2>
+    <h2>{{ 'about.expertise_title' | translate }}</h2>
     <ul>
-      <li><strong>Web Development:</strong> Building dynamic and responsive web applications using Angular and modern frameworks.</li>
-      <li><strong>Cloud Solutions:</strong> Implementing scalable solutions on Azure to enhance your business operations.</li>
-      <li><strong>Enterprise Systems:</strong> Developing robust systems with .NET, C#, and SQL for seamless business processes.</li>
-      <li><strong>Consulting Services:</strong> Providing expert advice to optimize your IT infrastructure.</li>
+      <li><strong>{{ 'about.web_dev' | translate }}</strong> {{ 'about.web_dev_desc' | translate }}</li>
+      <li><strong>{{ 'about.cloud_solutions' | translate }}</strong> {{ 'about.cloud_solutions_desc' | translate }}</li>
+      <li><strong>{{ 'about.enterprise_systems' | translate }}</strong> {{ 'about.enterprise_systems_desc' | translate }}</li>
+      <li><strong>{{ 'about.consulting' | translate }}</strong> {{ 'about.consulting_desc' | translate }}</li>
     </ul>
 
-    <h2>Our Mission</h2>
-    <p>
-      At IT Systems Development, we aim to empower businesses with cutting-edge technology. We believe in building long-term partnerships based on trust, innovation, and excellence.
-    </p>
+    <h2>{{ 'about.mission_title' | translate }}</h2>
+    <p>{{ 'about.mission' | translate }}</p>
 
-    <h2>Why Choose Us?</h2>
+    <h2>{{ 'about.why_choose_us_title' | translate }}</h2>
     <p>
-      - Proven expertise in modern technologies.<br>
-      - Commitment to quality and timely delivery.<br>
-      - Personalized approach tailored to your needs.<br>
-      - Transparent and collaborative processes.
+      {{ 'about.why_choose_us_point_1' | translate }}<br>
+      {{ 'about.why_choose_us_point_2' | translate }}<br>
+      {{ 'about.why_choose_us_point_3' | translate }}<br>
+      {{ 'about.why_choose_us_point_4' | translate }}
     </p>
-
   </div>
 </section>
