@@ -1,15 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
-
-import {HeaderComponent} from './components/header/header.component';
-import {FooterComponent} from './components/footer/footer.component';
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, HeaderComponent, FooterComponent],
   templateUrl: './app.component.html',
-  standalone: true,
-  styleUrl: './app.component.css'
+  styleUrl: './app.component.css',
+  standalone: false,
 })
 export class AppComponent {
   title = 'Development of IT systems - Croatia | .NET, C#, SQL, Angular, Azure experts';
