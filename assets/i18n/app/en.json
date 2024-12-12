@@ -1,0 +1,162 @@
+{
+  "company_name": "Development of IT Systems",
+  "header": {
+    "home": "Home",
+    "about": "About",
+    "contacts": "Contacts",
+    "services": "Services"
+  },
+  "landing_page": {
+    "welcome": "Welcome to",
+    "trusted_partner": "Your trusted partner in creating innovative IT solutions."
+  },
+  "footer": {
+    "made": "© 2024 Development of IT Systems. All Rights Reserved."
+  },
+  "contacts": {
+    "contacts_us": "Contact Us",
+    "loading": "Loading..."
+  },
+  "about": {
+    "title": "About us",
+    "welcome": "Welcome to",
+    "description": "We provide cutting-edge solutions in .NET, Angular, SQL, and Azure.",
+    "intro": "Your trusted partner in creating innovative it solutions. with years of experience in the software development industry, we specialize in delivering high-quality, reliable, and scalable systems tailored to meet your business needs.",
+    "expertise_title": "Our expertise",
+    "web_dev": "Web development:",
+    "web_dev_desc": "Building dynamic and responsive web applications using angular and modern frameworks.",
+    "cloud_solutions": "Cloud solutions:",
+    "cloud_solutions_desc": "Implementing scalable solutions on azure to enhance your business operations.",
+    "enterprise_systems": "Enterprise systems:",
+    "enterprise_systems_desc": "Developing robust systems with .net, c#, and sql for seamless business processes.",
+    "consulting": "Consulting services:",
+    "consulting_desc": "Providing expert advice to optimize your it infrastructure.",
+    "mission_title": "Our mission",
+    "mission": "At \"Development of IT Systems\", we aim to empower businesses with cutting-edge technology. we believe in building long-term partnerships based on trust, innovation, and excellence.",
+    "why_choose_us_title": "Why choose us?",
+    "why_choose_us_point_1": "- Proven expertise in modern technologies.",
+    "why_choose_us_point_2": "- Commitment to quality and timely delivery.",
+    "why_choose_us_point_3": "- Personalized approach tailored to your needs.",
+    "why_choose_us_point_4": "- Transparent and collaborative processes."
+  },
+  "services": {
+    "web_development": {
+      "title": "Web development",
+      "description": "We specialize in creating responsive and user-friendly websites tailored to meet your business needs. using the latest technologies such as angular, .net, and modern frontend frameworks, we deliver high-performing web applications that enhance user experience and drive results.",
+      "key_services": [
+        "Custom website development.",
+        "Single-page applications (spa) using angular.",
+        "Backend integration with .net and restful apis.",
+        "E-commerce platform development.",
+        "Website performance optimization."
+      ]
+    },
+    "cloud_solutions": {
+      "title": "Cloud solutions",
+      "description": "Our team provides scalable and secure cloud solutions to help businesses leverage the power of cloud computing. we specialize in microsoft azure to deliver cloud-based services that optimize your operations and reduce infrastructure costs.",
+      "key_services": [
+        "Cloud infrastructure design and deployment.",
+        "Azure cloud services.",
+        "Implementing serverless solutions.",
+        "Data storage and management.",
+        "Cloud security and compliance.",
+        "Migrating on-premises systems to the cloud."
+      ]
+    },
+    "it_consulting": {
+      "title": "IT consulting",
+      "description": "With over 20 years of experience in it, we provide expert consulting services to help businesses align their technology strategies with their goals. our expertise spans software development, system architecture, and it infrastructure.",
+      "key_services": [
+        "IT strategy development and implementation.",
+        "System architecture design.",
+        "Performance optimization for existing systems.",
+        "Technology stack evaluation and recommendations.",
+        "Troubleshooting and issue resolution."
+      ]
+    },
+    "custom_software_development": {
+      "title": "Custom software development",
+      "description": "We develop custom software solutions tailored to your unique business processes. whether you need a desktop application, an enterprise solution, or a specific tool, we ensure the software fits your requirements perfectly.",
+      "key_services": [
+        "Custom software development.",
+        "Desktop applications.",
+        "Enterprise solutions.",
+        "Database design and management.",
+        "Software maintenance and support.",
+        "Automation of business processes.",
+        "API development and integration.",
+        "Maintenance and updates for existing software."
+      ]
+    },
+    "mobile_app_development": {
+      "title": "Mobile App Development",
+      "description": "We create mobile applications that deliver exceptional user experiences across iOS and Android devices. Our team specializes in developing native and cross-platform apps that are fast, secure, and user-friendly.",
+      "key_services": [
+        "iOS and Android app development.",
+        "Native and cross-platform apps.",
+        "User interface design.",
+        "App performance optimization.",
+        "Integration with backend systems.",
+        "App maintenance and updates."
+      ]
+    },
+    "frontend_development": {
+      "title": "Frontend Development",
+      "description": "Our frontend development services focus on creating modern, interactive, and visually appealing user interfaces. We bring designs to life using Angular and other cutting-edge frontend technologies.",
+      "key_services": [
+        "Responsive web design.",
+        "Angular development.",
+        "User interface design.",
+        "Interactive web applications.",
+        "Frontend performance optimization.",
+        "Blazor development."
+      ]
+    },
+    "backend_development": {
+      "title": "Backend Development",
+      "description": "Our backend solutions are designed to ensure stability, scalability, and security for your applications.",
+      "key_services": [
+        "RESTful API development.",
+        "Database design and management.",
+        "Server-side scripting.",
+        "Backend performance optimization.",
+        "Integration with third-party services.",
+        "Microservices architecture."
+      ]
+    },
+    "database_management": {
+      "title": "Database Management",
+      "description": "We provide database management services to help businesses store for SQL and No-SQL, manage, and secure their data effectively. Our expertise covers database design, optimization, and maintenance for various database systems.",
+      "key_services": [
+        "Database design and implementation.",
+        "Data migration and integration.",
+        "Database performance optimization.",
+        "Data security and compliance.",
+        "Database maintenance and support."
+      ]
+    },
+    "devops_and_automation": {
+      "title": "DevOps and Automation",
+      "description": "Our DevOps and automation services help businesses streamline their development processes, improve collaboration, and increase efficiency. We implement automation tools and practices to accelerate software delivery and ensure quality.",
+      "key_services": [
+        "Continuous integration and deployment (CI/CD).",
+        "Infrastructure as code (IaC).",
+        "Automated testing.",
+        "Monitoring and logging.",
+        "Containerization and orchestration.",
+        "DevOps consulting and implementation."
+      ]
+    },
+    "technical_support": {
+      "title": "Technical Support",
+      "description": "We provide reliable technical support to ensure your IT systems operate smoothly. Our proactive approach minimizes downtime and maximizes productivity.",
+      "key_services": [
+        "IT issue resolution.",
+        "System maintenance and updates.",
+        "Remote support services.",
+        "Technology troubleshooting.",
+        "Emergency support."
+      ]
+    }
+  }
+}
