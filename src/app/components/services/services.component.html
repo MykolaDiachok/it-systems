@@ -3,11 +3,22 @@
     <div class="swiper-wrapper">
       <div class="swiper-slide" *ngFor="let service of services">
         <div class="card">
+          <!-- Title at the top -->
           <h3>{{ service.title }}</h3>
-          <p>{{ service.description }}</p>
-          <ul>
-            <li *ngFor="let key of service?.keyServices">{{ key }}</li>
-          </ul>
+
+          <!-- Content container for text and image -->
+          <div class="content">
+            <!-- Text content -->
+            <div class="text-content">
+              <p>{{ service.description }}</p>
+              <ul>
+                <li *ngFor="let key of service?.keyServices">{{ key }}</li>
+              </ul>
+            </div>
+
+            <!-- Image -->
+            <img [src]="'assets/images/' + service.image" alt="{{ service.title }}" class="card-image" />
+          </div>
         </div>
       </div>
     </div>
