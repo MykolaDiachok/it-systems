@@ -1,0 +1,162 @@
+{
+  "company_name": "Entwicklung von IT-Systemen",
+  "header": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contacts": "Kontakte",
+    "services": "Dienstleistungen"
+  },
+  "landing_page": {
+    "welcome": "Willkommen bei",
+    "trusted_partner": "Ihr vertrauenswürdiger Partner für innovative IT-Lösungen."
+  },
+  "footer": {
+    "made": "© 2024 Entwicklung von IT-Systemen. Alle Rechte vorbehalten."
+  },
+  "contacts": {
+    "contacts_us": "Kontaktieren Sie uns",
+    "loading": "Laden..."
+  },
+  "about": {
+    "title": "Über uns",
+    "welcome": "Willkommen bei",
+    "description": "Wir bieten modernste Lösungen in .NET, Angular, SQL und Azure.",
+    "intro": "Ihr vertrauenswürdiger Partner für die Entwicklung innovativer IT-Lösungen. Mit jahrelanger Erfahrung in der Softwareentwicklung spezialisieren wir uns auf die Bereitstellung qualitativ hochwertiger, zuverlässiger und skalierbarer Systeme, die auf Ihre geschäftlichen Anforderungen zugeschnitten sind.",
+    "expertise_title": "Unsere Fachgebiete",
+    "web_dev": "Webentwicklung:",
+    "web_dev_desc": "Erstellung dynamischer und reaktionsfähiger Webanwendungen mit Angular und modernen Frameworks.",
+    "cloud_solutions": "Cloud-Lösungen:",
+    "cloud_solutions_desc": "Implementierung skalierbarer Lösungen auf Azure, um Ihre Geschäftsabläufe zu verbessern.",
+    "enterprise_systems": "Unternehmenssysteme:",
+    "enterprise_systems_desc": "Entwicklung robuster Systeme mit .NET, C# und SQL für nahtlose Geschäftsprozesse.",
+    "consulting": "Beratungsdienstleistungen:",
+    "consulting_desc": "Bereitstellung von Fachberatung zur Optimierung Ihrer IT-Infrastruktur.",
+    "mission_title": "Unsere Mission",
+    "mission": "Bei \"Entwicklung von IT-Systemen\" ist es unser Ziel, Unternehmen mit modernster Technologie zu stärken. Wir glauben an den Aufbau langfristiger Partnerschaften, die auf Vertrauen, Innovation und Exzellenz basieren.",
+    "why_choose_us_title": "Warum uns wählen?",
+    "why_choose_us_point_1": "- Bewährte Expertise in modernen Technologien.",
+    "why_choose_us_point_2": "- Engagement für Qualität und pünktliche Lieferung.",
+    "why_choose_us_point_3": "- Individuelle Ansätze, die auf Ihre Bedürfnisse zugeschnitten sind.",
+    "why_choose_us_point_4": "- Transparente und kooperative Prozesse."
+  },
+  "services": {
+    "web_development": {
+      "title": "Webentwicklung",
+      "description": "Wir spezialisieren uns auf die Erstellung reaktionsfähiger und benutzerfreundlicher Websites, die auf Ihre geschäftlichen Anforderungen zugeschnitten sind. Mit den neuesten Technologien wie Angular, .NET und modernen Frontend-Frameworks liefern wir leistungsstarke Webanwendungen, die das Benutzererlebnis verbessern und Ergebnisse erzielen.",
+      "key_services": [
+        "Erstellung benutzerdefinierter Websites.",
+        "Single-Page-Anwendungen (SPA) mit Angular.",
+        "Backend-Integration mit .NET und RESTful APIs.",
+        "Entwicklung von E-Commerce-Plattformen.",
+        "Optimierung der Website-Leistung."
+      ]
+    },
+    "cloud_solutions": {
+      "title": "Cloud-Lösungen",
+      "description": "Unser Team bietet skalierbare und sichere Cloud-Lösungen, um Unternehmen dabei zu helfen, die Vorteile des Cloud-Computings zu nutzen. Wir sind auf Microsoft Azure spezialisiert, um Cloud-Dienste bereitzustellen, die Ihre Abläufe optimieren und die Infrastrukturkosten senken.",
+      "key_services": [
+        "Design und Implementierung von Cloud-Infrastrukturen.",
+        "Azure-Cloud-Dienste.",
+        "Implementierung serverloser Lösungen.",
+        "Datenmanagement und -speicherung.",
+        "Cloud-Sicherheit und Compliance.",
+        "Migration von lokalen Systemen in die Cloud."
+      ]
+    },
+    "it_consulting": {
+      "title": "IT-Beratung",
+      "description": "Mit über 20 Jahren Erfahrung im IT-Bereich bieten wir kompetente Beratungsdienste, um Unternehmen dabei zu helfen, ihre Technologie-Strategien mit ihren Zielen in Einklang zu bringen. Unsere Expertise umfasst Softwareentwicklung, Systemarchitektur und IT-Infrastruktur.",
+      "key_services": [
+        "Entwicklung und Implementierung von IT-Strategien.",
+        "Design der Systemarchitektur.",
+        "Optimierung der Leistung bestehender Systeme.",
+        "Bewertung und Empfehlungen für Technologie-Stacks.",
+        "Fehlerbehebung und Problemlösung."
+      ]
+    },
+    "custom_software_development": {
+      "title": "Individuelle Softwareentwicklung",
+      "description": "Wir entwickeln maßgeschneiderte Softwarelösungen, die auf Ihre einzigartigen Geschäftsprozesse abgestimmt sind. Ob Sie eine Desktop-Anwendung, eine Unternehmenslösung oder ein spezielles Tool benötigen, wir sorgen dafür, dass die Software perfekt zu Ihren Anforderungen passt.",
+      "key_services": [
+        "Entwicklung maßgeschneiderter Software.",
+        "Desktop-Anwendungen.",
+        "Unternehmenslösungen.",
+        "Design und Verwaltung von Datenbanken.",
+        "Wartung und Unterstützung von Software.",
+        "Automatisierung von Geschäftsprozessen.",
+        "API-Entwicklung und Integration.",
+        "Wartung und Updates für bestehende Software."
+      ]
+    },
+    "mobile_app_development": {
+      "title": "Entwicklung mobiler Apps",
+      "description": "Wir erstellen mobile Anwendungen, die außergewöhnliche Benutzererlebnisse auf iOS- und Android-Geräten bieten. Unser Team ist auf die Entwicklung nativer und plattformübergreifender Apps spezialisiert, die schnell, sicher und benutzerfreundlich sind.",
+      "key_services": [
+        "Entwicklung von iOS- und Android-Apps.",
+        "Native und plattformübergreifende Apps.",
+        "Design der Benutzeroberfläche.",
+        "Optimierung der App-Leistung.",
+        "Integration mit Backend-Systemen.",
+        "Wartung und Updates für Apps."
+      ]
+    },
+    "frontend_development": {
+      "title": "Frontend-Entwicklung",
+      "description": "Unsere Frontend-Entwicklungsdienste konzentrieren sich auf die Erstellung moderner, interaktiver und visuell ansprechender Benutzeroberflächen. Wir bringen Designs mit Angular und anderen modernen Frontend-Technologien zum Leben.",
+      "key_services": [
+        "Responsives Webdesign.",
+        "Entwicklung mit Angular.",
+        "Design der Benutzeroberfläche.",
+        "Interaktive Webanwendungen.",
+        "Optimierung der Frontend-Leistung.",
+        "Entwicklung mit Blazor."
+      ]
+    },
+    "backend_development": {
+      "title": "Backend-Entwicklung",
+      "description": "Unsere Backend-Lösungen sind darauf ausgelegt, Stabilität, Skalierbarkeit und Sicherheit für Ihre Anwendungen zu gewährleisten.",
+      "key_services": [
+        "Entwicklung von RESTful APIs.",
+        "Design und Verwaltung von Datenbanken.",
+        "Serverseitige Skripterstellung.",
+        "Optimierung der Backend-Leistung.",
+        "Integration mit Drittanbietern.",
+        "Mikroservices-Architektur."
+      ]
+    },
+    "database_management": {
+      "title": "Datenbankverwaltung",
+      "description": "Wir bieten Dienstleistungen im Bereich Datenbankverwaltung an, um Unternehmen bei der effektiven Speicherung, Verwaltung und Sicherung ihrer Daten zu unterstützen. Unsere Expertise umfasst das Design, die Optimierung und die Wartung von Datenbanken für verschiedene Systeme.",
+      "key_services": [
+        "Design und Implementierung von Datenbanken.",
+        "Datenmigration und -integration.",
+        "Optimierung der Datenbankleistung.",
+        "Datensicherheit und Compliance.",
+        "Wartung und Unterstützung von Datenbanken."
+      ]
+    },
+    "devops_and_automation": {
+      "title": "DevOps und Automatisierung",
+      "description": "Unsere DevOps- und Automatisierungsdienste helfen Unternehmen, ihre Entwicklungsprozesse zu optimieren, die Zusammenarbeit zu verbessern und die Effizienz zu steigern. Wir implementieren Automatisierungstools und -praktiken, um die Softwarebereitstellung zu beschleunigen und die Qualität zu gewährleisten.",
+      "key_services": [
+        "Kontinuierliche Integration und Bereitstellung (CI/CD).",
+        "Infrastruktur als Code (IaC).",
+        "Automatisiertes Testen.",
+        "Überwachung und Protokollierung.",
+        "Containerisierung und Orchestrierung.",
+        "DevOps-Beratung und Implementierung."
+      ]
+    },
+    "technical_support": {
+      "title": "Technischer Support",
+      "description": "Wir bieten zuverlässigen technischen Support, um sicherzustellen, dass Ihre IT-Systeme reibungslos funktionieren. Unser proaktiver Ansatz minimiert Ausfallzeiten und maximiert die Produktivität.",
+      "key_services": [
+        "Lösung von IT-Problemen.",
+        "Systemwartung und -aktualisierungen.",
+        "Fernunterstützungsdienste.",
+        "Technische Fehlerbehebung.",
+        "Notfallunterstützung."
+      ]
+    }
+  }
+}

@@ -26,9 +26,9 @@
     "web_dev": "Web development:",
     "web_dev_desc": "Building dynamic and responsive web applications using angular and modern frameworks.",
     "cloud_solutions": "Cloud solutions:",
-    "cloud_solutions_desc": "Implementing scalable solutions on azure to enhance your business operations.",
+    "cloud_solutions_desc": "Implementing scalable solutions on Azure to enhance your business operations.",
     "enterprise_systems": "Enterprise systems:",
-    "enterprise_systems_desc": "Developing robust systems with .net, c#, and sql for seamless business processes.",
+    "enterprise_systems_desc": "Developing robust systems with .Net, C#, and SQL for seamless business processes.",
     "consulting": "Consulting services:",
     "consulting_desc": "Providing expert advice to optimize your it infrastructure.",
     "mission_title": "Our mission",
@@ -53,7 +53,7 @@
     },
     "cloud_solutions": {
       "title": "Cloud solutions",
-      "description": "Our team provides scalable and secure cloud solutions to help businesses leverage the power of cloud computing. we specialize in microsoft azure to deliver cloud-based services that optimize your operations and reduce infrastructure costs.",
+      "description": "Our team provides scalable and secure cloud solutions to help businesses leverage the power of cloud computing. we specialize in microsoft Azure to deliver cloud-based services that optimize your operations and reduce infrastructure costs.",
       "key_services": [
         "Cloud infrastructure design and deployment.",
         "Azure cloud services.",

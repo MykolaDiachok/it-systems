@@ -43,7 +43,7 @@ import { createTranslateLoader } from './shared/translation-loader';
 export class AppModule {
   constructor(private translate: TranslateService) {
     const browserLanguage = this.translate.getBrowserCultureLang()?.substring(0, 2) || 'en';
-    if (['en', 'hr'].includes(browserLanguage)) {
+    if (['en', 'hr', 'de'].includes(browserLanguage)) {
       this.translate.use(browserLanguage);
     } else {
       this.translate.use('hr');
