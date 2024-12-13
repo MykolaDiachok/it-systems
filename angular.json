@@ -13,6 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
+            "baseHref": "/it-systems/",
             "outputPath": "dist/it-systems",
             "index": "src/index.html",
             "browser": "src/main.ts",
@@ -24,10 +25,13 @@
               "src/favicon.ico",
               "src/assets",
               "src/manifest.webmanifest",
+              "src/sitemap.xml",
+              "src/robots.txt",
               {
                 "glob": "**/*",
                 "input": "public"
-              }
+              },
+              "src/BingSiteAuth.xml"
             ],
             "styles": [
               "src/styles.css",

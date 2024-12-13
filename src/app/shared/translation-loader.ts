@@ -6,7 +6,8 @@ export class TranslationLoader implements TranslateLoader {
   constructor(private http: HttpClient) {}
 
   getTranslation(lang: string): Observable<any> {
-    return this.http.get(`/assets/i18n/app/${lang}.json`);
+    const baseHref = document.getElementsByTagName('base')[0]?.href || '';
+    return this.http.get(`${baseHref}assets/i18n/app/${lang}.json`);
   }
 }
 

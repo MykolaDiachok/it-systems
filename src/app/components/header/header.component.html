@@ -1,8 +1,8 @@
 <nav class="menu">
   <ul class="menu-list">
-    <li><a routerLink="/" routerLinkActive="active">{{'header.home' | translate}}</a></li>
-    <li><a routerLink="/about">{{'header.about' | translate}}</a></li>
-    <li><a routerLink="/services">{{'header.services' | translate}}</a></li>
-    <li><a routerLink="/contact">{{'header.contacts' | translate}}</a></li>
+    <li><a routerLink="/" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">{{'header.home' | translate}}</a></li>
+    <li><a routerLink="/about" routerLinkActive="active">{{'header.about' | translate}}</a></li>
+    <li><a routerLink="/services" routerLinkActive="active">{{'header.services' | translate}}</a></li>
+    <li><a routerLink="/contact" routerLinkActive="active">{{'header.contacts' | translate}}</a></li>
   </ul>
 </nav>
