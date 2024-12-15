@@ -7,8 +7,39 @@
     "services": "Services"
   },
   "landing_page": {
-    "welcome": "Welcome to",
-    "trusted_partner": "Your trusted partner in creating innovative IT solutions."
+    "welcome_to": "Welcome to",
+    "trusted_partner": "Your trusted partner in the creation of innovative IT solutions.",
+    "title": "Development of IT Systems – Your Partner in Technology",
+    "welcome": "  Welcome to Development of IT Systems, a company dedicated to helping businesses in Croatia and Europe create innovative solutions, automate processes, and achieve new levels of efficiency. We are here for those who aim to optimize their business with modern technologies.",
+    "services": {
+      "title": "Our Services",
+      "web": "Web Application Development: Reliable and powerful solutions using Angular and .NET.",
+      "mobile": "Mobile Applications: Intuitive applications for any platform.",
+      "automation": "Business Process Automation: From analysis to full implementation of automated systems.",
+      "cloud": "Cloud Technologies: System integration into the cloud and support for digital transformation.",
+      "consulting": "Consulting: Tailored recommendations and strategies for IT optimization.",
+      "reporting": "Advanced Reporting: Development of analytical tools and support for OLAP cubes."
+    },
+    "why_choose_us": {
+      "title": "Why Choose Us?",
+      "experience": "Experience: Over 25 years in IT with diverse business projects.",
+      "customer_focus": "Customer-Oriented Approach: We listen to clients and deliver solutions tailored to their needs.",
+      "innovation": "Innovation: Always up to date with the latest trends and technologies.",
+      "quality": "Quality: Attention to detail and results that exceed expectations."
+    },
+    "expertise": {
+      "title": "Our Expertise",
+      "automation": "Automation of sales agents, warehouses, and cash systems.",
+      "management_tools": "Development of management and business analysis tools.",
+      "business_solutions": "Implementation of comprehensive business automation solutions.",
+      "digital_transition": "Transition to digital platforms and cloud system integration."
+    },
+    "start_today": {
+      "title": "Start Your Journey with Us Today!",
+      "message": "We are ready to turn your ideas into reality or help you find the best solution for your business.",
+      "link": "Contact us through our contact page, and we will prepare a personalized offer for you."
+    }
+
   },
   "footer": {
     "made": "© 2024 Development of IT Systems. All Rights Reserved."

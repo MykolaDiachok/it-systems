@@ -7,8 +7,38 @@
     "services": "Dienstleistungen"
   },
   "landing_page": {
-    "welcome": "Willkommen bei",
-    "trusted_partner": "Ihr vertrauenswürdiger Partner für innovative IT-Lösungen."
+    "welcome_to": "Willkommen bei",
+    "trusted_partner": "Ihr vertrauenswürdiger Partner für die Entwicklung innovativer IT-Lösungen.",
+    "title": "Development of IT Systems – Ihr Partner in Technologie",
+    "welcome": "Willkommen bei Development of IT Systems, einem Unternehmen, das sich darauf spezialisiert hat, Unternehmen in Kroatien und Europa dabei zu unterstützen, innovative Lösungen zu entwickeln, Prozesse zu automatisieren und neue Effizienzstufen zu erreichen. Wir sind für diejenigen da, die ihr Geschäft mit modernen Technologien optimieren möchten.",
+    "services": {
+      "title": "Unsere Dienstleistungen",
+      "web": "Web-Anwendungsentwicklung: Zuverlässige und leistungsstarke Lösungen mit Angular und .NET.",
+      "mobile": "Mobile Anwendungen: Intuitive Anwendungen für jede Plattform.",
+      "automation": "Automatisierung von Geschäftsprozessen: Von der Analyse bis zur vollständigen Implementierung automatisierter Systeme.",
+      "cloud": "Cloud-Technologien: Systemintegration in die Cloud und Unterstützung bei der digitalen Transformation.",
+      "consulting": "Beratung: Individuelle Empfehlungen und Strategien zur Optimierung von IT-Lösungen.",
+      "reporting": "Erweiterte Berichterstattung: Entwicklung analytischer Werkzeuge und Unterstützung für OLAP-Würfel."
+    },
+    "why_choose_us": {
+      "title": "Warum uns wählen?",
+      "experience": "Erfahrung: Über 25 Jahre in der IT mit einer Vielzahl von Geschäftsprojekten.",
+      "customer_focus": "Kundenorientierung: Wir hören unseren Kunden zu und liefern maßgeschneiderte Lösungen.",
+      "innovation": "Innovation: Immer auf dem neuesten Stand der Trends und Technologien.",
+      "quality": "Qualität: Liebe zum Detail und Ergebnisse, die Erwartungen übertreffen."
+    },
+    "expertise": {
+      "title": "Unsere Fachkompetenz",
+      "automation": "Automatisierung von Vertriebsagenten, Lagerhäusern und Kassensystemen.",
+      "management_tools": "Entwicklung von Management- und Geschäftsanalysetools.",
+      "business_solutions": "Implementierung umfassender Lösungen zur Geschäftsautomatisierung.",
+      "digital_transition": "Übergang zu digitalen Plattformen und Cloud-Systemintegration."
+    },
+    "start_today": {
+      "title": "Beginnen Sie noch heute mit uns!",
+      "message": "Wir sind bereit, Ihre Ideen in die Realität umzusetzen oder Ihnen zu helfen, die beste Lösung für Ihr Geschäft zu finden.",
+      "link": "Kontaktieren Sie uns über unsere Kontaktseite, und wir erstellen ein individuelles Angebot für Sie."
+    }
   },
   "footer": {
     "made": "© 2024 Entwicklung von IT-Systemen. Alle Rechte vorbehalten."

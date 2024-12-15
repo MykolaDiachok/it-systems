@@ -7,8 +7,38 @@
     "services": "Usluge"
   },
   "landing_page": {
-    "welcome": "Dobrodošli u",
-    "trusted_partner": "Vaš pouzdan partner u stvaranju inovativnih IT rješenja."
+    "welcome_to": "Dobrodošli u",
+    "trusted_partner": "Vaš pouzdani partner u stvaranju inovativnih IT rješenja.",
+    "title": "Development of IT Systems – Vaš partner u tehnologiji",
+    "welcome": "Dobrodošli u Development of IT Systems, tvrtku posvećenu pomaganju poslovnim subjektima u Hrvatskoj i Europi u stvaranju inovativnih rješenja, automatizaciji procesa i postizanju novih razina učinkovitosti. Ovdje smo za one koji žele optimizirati svoje poslovanje uz pomoć modernih tehnologija.",
+    "services": {
+      "title": "Naše usluge",
+      "web": "Razvoj web aplikacija: Pouzdana i moćna rješenja uz Angular i .NET.",
+      "mobile": "Mobilne aplikacije: Intuitivne aplikacije za sve platforme.",
+      "automation": "Automatizacija poslovnih procesa: Od analize do potpune implementacije automatiziranih sustava.",
+      "cloud": "Cloud tehnologije: Integracija sustava u oblak i podrška za digitalnu transformaciju.",
+      "consulting": "Konzultacije: Prilagođene preporuke i strategije za optimizaciju IT rješenja.",
+      "reporting": "Napredno izvještavanje: Razvoj analitičkih alata i podrška za OLAP kocke."
+    },
+    "why_choose_us": {
+      "title": "Zašto odabrati nas?",
+      "experience": "Iskustvo: Više od 25 godina u IT sektoru s raznolikim poslovnim projektima.",
+      "customer_focus": "Orijentacija na klijente: Slušamo klijente i pružamo rješenja prilagođena njihovim potrebama.",
+      "innovation": "Inovacije: Uvijek u korak s najnovijim trendovima i tehnologijama.",
+      "quality": "Kvaliteta: Pažnja posvećena detaljima i rezultati koji premašuju očekivanja."
+    },
+    "expertise": {
+      "title": "Naša stručnost",
+      "automation": "Automatizacija prodajnih agenata, skladišta i blagajni.",
+      "management_tools": "Razvoj alata za upravljanje i poslovnu analizu.",
+      "business_solutions": "Implementacija cjelovitih rješenja za automatizaciju poslovanja.",
+      "digital_transition": "Prijelaz na digitalne platforme i integracija sustava u oblak."
+    },
+    "start_today": {
+      "title": "Započnite s nama već danas!",
+      "message": "Spremni smo vaše ideje pretvoriti u stvarnost ili vam pomoći pronaći najbolje rješenje za vaše poslovanje.",
+      "link": "Kontaktirajte nas putem naše kontakt stranice, i pripremit ćemo personaliziranu ponudu za vas."
+    }
   },
   "footer": {
     "made": "© 2024 Development of IT Systems. Sva prava pridržana."
